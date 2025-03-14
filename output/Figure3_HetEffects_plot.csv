@@ -1,0 +1,11 @@
+varname,ae_cptreat,ae_cptreat_se,ae_cptreat_female,ae_cptreat_female_se,ae_cptreat_not_female,ae_cptreat_not_female_se,ae_cptreat_minority,ae_cptreat_minority_se,ae_cptreat_not_minority,ae_cptreat_not_minority_se,ae_cptreat_youth,ae_cptreat_youth_se,ae_cptreat_not_youth,ae_cptreat_not_youth_se,ae_cptreat_society,ae_cptreat_society_se,ae_cptreat_not_society,ae_cptreat_not_society_se
+knowledge_police_hubs,0.15,0.03,0.1,0.05,0.19,0.06,0.13,0.08,0.15,0.04,0.15,0.05,0.14,0.05,0.15,0.04,0.12,0.08
+knowledge_law,0.05,0.02,0.02,0.04,0.08,0.04,0.02,0.07,0.06,0.03,0.03,0.04,0.07,0.03,0.05,0.03,0.05,0.05
+perceptions_police,0.03,0.03,0.03,0.05,0.03,0.04,0.07,0.08,0.02,0.03,0.02,0.05,0.04,0.04,0.01,0.03,0.09,0.05
+perceptions_courts,-0.01,0.03,-0.01,0.05,-0.02,0.04,-0.01,0.1,-0.02,0.03,-0.08,0.04,0.04,0.05,0,0.04,-0.03,0.06
+perceptions_govt,0.03,0.04,0,0.06,0.06,0.04,-0.03,0.11,0.04,0.04,0.02,0.06,0.04,0.05,0.04,0.05,0.02,0.07
+preferences_LNP,0,0.05,-0.03,0.07,0.03,0.06,0.07,0.13,-0.01,0.05,-0.04,0.07,0.03,0.06,0.02,0.06,-0.06,0.1
+sassywood,-0.05,0.04,-0.06,0.07,-0.04,0.05,-0.14,0.14,-0.04,0.05,-0.03,0.07,-0.11,0.07,-0.08,0.06,-0.07,0.09
+own_crime_dummies,0.01,0.03,-0.02,0.04,0.03,0.04,0.1,0.1,-0.01,0.03,0.01,0.05,0.01,0.03,0.04,0.03,-0.1,0.07
+property_rights,0.1,0.03,0.1,0.04,0.09,0.04,0.08,0.09,0.1,0.03,0.05,0.05,0.13,0.04,0.11,0.03,0.06,0.06
+scwf_donation,0.13,0.08,0.2,0.11,0.03,0.1,-0.03,0.23,0.11,0.09,0.2,0.11,0.03,0.1,0.05,0.09,0.4,0.14
